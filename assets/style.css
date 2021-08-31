@@ -7,3 +7,8 @@
 html { 
     background-color: lightskyblue; 
 } 
+
+#nav-font{
+    color: rgb(235, 87, 19);
+    font-size: larger;
+}
