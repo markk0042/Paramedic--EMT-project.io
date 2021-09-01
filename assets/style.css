@@ -1,9 +1,10 @@
 .header{
-    font-size: 90px;
-    color: brown;
+    font-size: 70px;
+    color: rgb(53, 44, 40);
     margin: auto;
     width: 80%;
     padding: 10px;
+    text-align: center;
 
 }
 
@@ -12,7 +13,7 @@ html {
 } 
 
 #nav-font{
-    color: rgb(235, 87, 19);
+    color: rgb(53, 44, 40);
     font-size: larger;
 }
 
@@ -38,3 +39,7 @@ html {
 #footer-border{
     margin-top: 10px;
 }
+
+body {
+    background-color: lightblue;
+  }
