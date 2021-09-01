@@ -14,10 +14,11 @@ html {
 }
 
 #back-image{
-    position: relative;
-    opacity: 0.75;
-    height: fit-content;
-    width: fit-content
-      
+ -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 100%;
 }
+
 
