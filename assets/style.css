@@ -12,3 +12,11 @@ html {
     color: rgb(235, 87, 19);
     font-size: larger;
 }
+
+#back-image{
+    position: relative;
+    opacity: 0.75;
+    height: fit-content;
+    width: fit-content
+      
+}
