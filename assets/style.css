@@ -49,14 +49,14 @@ body {
 }
 
 .jumbotron h1 {
-    color: white;
+    color: rgb(153, 148, 148);
     font-weight: bold;
     margin-bottom: 30px;
-    color: white;
+    color: rgb(153, 148, 148);
 }
 
 .jumbotron .lead {
-    color: #a7a7a7;
+    color: rgb(53, 44, 40);
     margin: 25px 0;
 }
 
@@ -79,3 +79,9 @@ body {
     cursor: pointer;
     background: #db2f10;
   }
+
+
+  
+ 
+
+  
