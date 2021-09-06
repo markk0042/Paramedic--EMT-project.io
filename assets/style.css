@@ -1,14 +1,15 @@
 .header{
     font-size: 70px;
-    color: rgb(53, 44, 40);
+    color: rgb(54, 49, 49);
     margin: auto;
     width: 80%;
     padding: 10px;
     text-align: center;
-
+    color: rgb(54, 49, 49);
+    text-shadow: 2px 2px red;
 }
 
-html { 
+html{ 
     background-color: lightskyblue; 
 } 
 
@@ -28,13 +29,11 @@ html {
     height: 40%;
     opacity: 0.65;
     padding: 45px;
-
 }
 
 .text-uppercase-career{
     text-align: center;
 }
-
 
 #footer-border{
     margin-top: 10px;
@@ -42,13 +41,13 @@ html {
 
 body {
     background-color: lightblue;
-  }
+}
 
-  .jumbotron {
+.jumbotron{
     background-color: transparent;
 }
 
-.jumbotron h1 {
+.jumbotron h1{
     color: rgb(54, 49, 49);
     font-weight: bold;
     margin-bottom: 30px;
@@ -56,20 +55,19 @@ body {
     text-shadow: 2px 2px red;
 }
 
-.jumbotron .lead {
+.jumbotron .lead{
     color: rgb(54, 49, 49);
     margin: 25px 0;
     text-shadow: 2px;
 }
 
-.jumbotron small {
+.jumbotron small{
     font-size: 80%;
     font-style: italic;
     color: #db2f10;
 }
 
-
-.btn {
+.btn{
     border: none;
     color: white;
     padding: 15px 32px;
@@ -80,14 +78,22 @@ body {
     margin: 4px 2px;
     cursor: pointer;
     background: #db2f10;
-  }
+}
+
 .aboutus{
     color: rgb(53, 44, 40);
     margin: 25px 0;
-
 }
 
-  
+.text-uppercase-career{
+    color: rgb(54, 49, 49);
+    text-shadow: 1px 1px red;
+}
  
+.navbar{
+    text-shadow: 1px 1px red;
+}
 
-  
+#nav-font.nav-item{
+    text-shadow: 1px 1px red;
+}
